@@ -1,0 +1,27 @@
+# ninja log v5
+14	689	7325610641174532	CMakeFiles/linklist.dir/cyclemove.cpp.obj	ae8f227b739bde42
+5	459	7325521639980865	CMakeFiles/linklist.dir/createlist.cpp.obj	9c54730c05609a5d
+3	450	7325523604099834	CMakeFiles/linklist.dir/deletelocate.cpp.obj	f88079c1ed446f95
+370	1017	7335654643457107	linklist.exe	f01adb951d7c8996
+3	369	7335654637024549	CMakeFiles/linklist.dir/main.cpp.obj	8e7054206ce36ae1
+38	713	7325610641420707	CMakeFiles/linklist.dir/mergelist.cpp.obj	7a84477d44d6dc31
+53	750	7325610641800948	CMakeFiles/linklist.dir/inverselist.cpp.obj	a35e6238f31f6bf7
+3	424	7325523336170878	CMakeFiles/linklist.dir/printlist.cpp.obj	83ebe74203ffa2f7
+3	446	7325617949028824	CMakeFiles/linklist.dir/deleteduplicate.cpp.obj	20e83060b538ca47
+39	1236	7336772176004624	build.ninja	f61eef96bd8ea0a4
+71	739	7325610641675059	CMakeFiles/linklist.dir/createnull.cpp.obj	80815f09c749437c
+10	198	7335654635358125	CMakeFiles/linklist.dir/Linklist.cpp.obj	9c17c87c9ce3bc78
+1	468	7336772176004624	build.ninja	f61eef96bd8ea0a4
+3	211	7336772390298578	CMakeFiles/linklist.dir/Linklist.cpp.obj	9c17c87c9ce3bc78
+212	418	7336772392328372	linklist.exe	f01adb951d7c8996
+3	108	7336775714871407	CMakeFiles/linklist.dir/Linklist.cpp.obj	9c17c87c9ce3bc78
+109	279	7336775716521402	linklist.exe	f01adb951d7c8996
+3	126	7336776604295070	CMakeFiles/linklist.dir/Linklist.cpp.obj	9c17c87c9ce3bc78
+127	308	7336776606077860	linklist.exe	f01adb951d7c8996
+3	109	7336778042008234	CMakeFiles/linklist.dir/Linklist.cpp.obj	9c17c87c9ce3bc78
+109	284	7336778043694455	linklist.exe	f01adb951d7c8996
+9	93	7337617028796794	CMakeFiles/linklist.dir/Linklist.cpp.obj	9c17c87c9ce3bc78
+3	395	7337617031814755	CMakeFiles/linklist.dir/main.cpp.obj	8e7054206ce36ae1
+396	628	7337617034100081	linklist.exe	f01adb951d7c8996
+4	450	7341747999297842	CMakeFiles/linklist.dir/mergelist.cpp.obj	7a84477d44d6dc31
+451	727	7341748002019427	linklist.exe	f01adb951d7c8996

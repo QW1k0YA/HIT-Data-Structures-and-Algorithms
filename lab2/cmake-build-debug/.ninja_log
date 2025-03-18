@@ -1,0 +1,14 @@
+# ninja log v5
+15	389	7352060205317783	CMakeFiles/lab2.dir/CreateHT.cpp.obj	a1b879e028db043e
+11	548	7345401275070419	CMakeFiles/lab2.dir/InitHT.cpp.obj	3a50635c445a9923
+28	624	7345401275807089	CMakeFiles/lab2.dir/SelectMin.cpp.obj	254928f445324b44
+3	392	7352062924983921	CMakeFiles/lab2.dir/main.cpp.obj	165aec179319d41f
+15	479	7345454570356745	CMakeFiles/lab2.dir/loadfile.cpp.obj	ddd216474ff00a11
+400	578	7352062926789196	lab2.exe	d9fbd98b159e90f8
+7	379	7345440277135589	CMakeFiles/lab2.dir/InputW.cpp.obj	6369cdb58a61849a
+15	626	7350638497479488	CMakeFiles/lab2.dir/code2huff.cpp.obj	ffb861b182b12742
+21	501	7345454570576946	CMakeFiles/lab2.dir/file2code.cpp.obj	2abc8f4e807c56ae
+8	400	7352062925076350	CMakeFiles/lab2.dir/decode.cpp.obj	f5493133e266bbe7
+4	425	7350644813467604	CMakeFiles/lab2.dir/comprerate.cpp.obj	7422787144338711
+1	493	7640014609702942	build.ninja	31800c970e4aaf63
+7	396	7352060205377784	CMakeFiles/lab2.dir/huff2code.cpp.obj	dff4ce037cfc1fbe

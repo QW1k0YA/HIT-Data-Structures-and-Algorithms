@@ -1,0 +1,21 @@
+# ninja log v5
+12	443	7324750041197434	CMakeFiles/datastructure.dir/End.cpp.obj	655ff2c3bc310f74
+514	660	7324750043325118	datastructure.exe	132f40536f023f6
+17	513	7324750041912631	CMakeFiles/datastructure.dir/inverselist.cpp.obj	2df26c790dd2756f
+46	514	7324750041922660	CMakeFiles/datastructure.dir/printlist.cpp.obj	face4027f98e4225
+30	491	7324750041444834	CMakeFiles/datastructure.dir/movecycle.cpp.obj	16416247b223aaef
+3	420	7324750040974778	CMakeFiles/datastructure.dir/main.cpp.obj	6389154185d34b2e
+22	492	7324750041651344	CMakeFiles/datastructure.dir/deleterepeat.cpp.obj	1d55f3f1a020e4de
+8	488	7324750041444834	CMakeFiles/datastructure.dir/delete.cpp.obj	43062c8589d713a6
+41	493	7324750041661341	CMakeFiles/datastructure.dir/mergelist.cpp.obj	673d2cc95de92614
+9	763	7324751606987951	CMakeFiles/datastructure.dir/delete.cpp.obj	d55bce3cae838cdf
+13	911	7324751607083062	CMakeFiles/datastructure.dir/End.cpp.obj	6931ce241c3457d3
+17	915	7324751607083062	CMakeFiles/datastructure.dir/deleterepeat.cpp.obj	93ee4a3cfdc07144
+19	937	7324751607148179	CMakeFiles/datastructure.dir/movecycle.cpp.obj	2ee5d7c189904984
+24	938	7324751607148179	CMakeFiles/datastructure.dir/inverselist.cpp.obj	dcf7ec7a1d0e2456
+4	944	7324751607148179	CMakeFiles/datastructure.dir/main.cpp.obj	38fb8f0b7c76fa02
+33	945	7324751608728989	CMakeFiles/datastructure.dir/mergelist.cpp.obj	df362580655cc3bf
+29	946	7324751608728989	CMakeFiles/datastructure.dir/printlist.cpp.obj	87f7d1f68e518062
+946	1109	7324751610473441	datastructure.exe	132f40536f023f6
+3	457	7325622993231686	CMakeFiles/datastructure.dir/main.cpp.obj	38fb8f0b7c76fa02
+458	954	7325622998147281	datastructure.exe	132f40536f023f6
